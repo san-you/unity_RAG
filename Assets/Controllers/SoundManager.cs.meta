@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5aebf9114268bb1469d02eb815c9b928
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - shotSE: {instanceID: 0}
+  - damageSE: {instanceID: 0}
+  - healSE: {instanceID: 0}
+  - getAmmoSE: {instanceID: 0}
+  - hitSE: {fileID: 8300000, guid: 60fb908340d93e04e96758ea10e5633c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

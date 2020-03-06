@@ -21,5 +21,7 @@ https://github.com/san-you/unity_RAG/releases/download/v1.0.0/RAG_Win.zip
 
 ## 遊び方
 タイトルでクリックするとゲームが始まります。
+
 タイトルで「H」キーを押下するとヘルプ画面が開きます。
+
 ヘルプ画面で各種アイテムの説明等が見れます。

@@ -4,8 +4,9 @@ Unityで作成したFPSゲームです。
 弾や回復アイテムを拾いながら長く生き延びることが目的です。
 
 C#で実装しています。
+下記画像をクリックするとプレイ動画に飛びます。
 
-[![](https://img.youtube.com/vi/LXZq_OMvE7U&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=LXZq_OMvE7U&feature=youtu.be)
+[![](http://img.youtube.com/vi/LXZq_OMvE7U/0.jpg)](https://www.youtube.com/watch?v=LXZq_OMvE7U&feature=youtu.be)
 
 ## 起動方法
 https://github.com/san-you/unity_RAG/releases/download/v1.0.0/RAG_Win.zip

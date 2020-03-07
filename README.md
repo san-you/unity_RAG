@@ -5,6 +5,8 @@ Unityで作成したFPSゲームです。
 
 C#で実装しています。
 
+[![](https://img.youtube.com/vi/LXZq_OMvE7U&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=LXZq_OMvE7U&feature=youtu.be)
+
 ## 起動方法
 https://github.com/san-you/unity_RAG/releases/download/v1.0.0/RAG_Win.zip
 からファイルをダウンロードしてRun_and_Gun.exeを実行してください。
